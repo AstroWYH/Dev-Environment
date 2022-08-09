@@ -24,7 +24,7 @@
 
 下载地址：[旧版 WSL 的手动安装步骤 | Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/wsl/install-manual#step-3---enable-virtual-machine-feature)
 
-![image-20220810013237149](https://hanbabang-1311741789.cos.ap-chengdu.myqcloud.com/image-20220810013237149.png)
+![image-20220810013237149](https://hanbabang-1311741789.cos.ap-chengdu.myqcloud.com/image-20220810013237149.png?raw=true)
 
 ![image-20220810012902485](https://hanbabang-1311741789.cos.ap-chengdu.myqcloud.com/image-20220810012902485.png)
 
