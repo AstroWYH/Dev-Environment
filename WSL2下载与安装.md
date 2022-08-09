@@ -26,10 +26,10 @@
 
 ![image-20220810013237149](https://hanbabang-1311741789.cos.ap-chengdu.myqcloud.com/image-20220810013237149.png?raw=true)
 
-![image-20220810012902485](https://hanbabang-1311741789.cos.ap-chengdu.myqcloud.com/image-20220810012902485.png)
+![image-20220810012902485](https://hanbabang-1311741789.cos.ap-chengdu.myqcloud.com/image-20220810012902485.png?raw=true)
 
 ### 确认安装
 
 参考链接：[安装 WSL | Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/wsl/install)
 
-![image-20220810013301046](https://hanbabang-1311741789.cos.ap-chengdu.myqcloud.com/image-20220810013301046.png)
+![image-20220810013301046](https://hanbabang-1311741789.cos.ap-chengdu.myqcloud.com/image-20220810013301046.png?raw=true)
