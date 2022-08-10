@@ -26,7 +26,7 @@
 
 在仓库根目录的local.properties配置SDK、NDK路径，如无local.properties则新建即可
 
-![image-20220810210750803](https://hanbabang-1311741789.cos.ap-chengdu.myqcloud.com/Pics/image-20220810210750803.png)
+![image-20220811010046561](https://hanbabang-1311741789.cos.ap-chengdu.myqcloud.com/image-20220811010046561.png)
 
 确保仓库根目录的build.gradle版本，和gradle-wrapper.properties的gradle版本
 
