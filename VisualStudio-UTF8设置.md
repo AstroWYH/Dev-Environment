@@ -58,6 +58,11 @@ ps:以上方法也同样适合更改windows系统控制台的编码格式。
 int main() {
     SetConsoleOutputCP(CP_UTF8);
 }
+
+// 或者直接
+int main() {
+    system("CHCP 65001");
+}
 ```
 
 #### 参考链接
