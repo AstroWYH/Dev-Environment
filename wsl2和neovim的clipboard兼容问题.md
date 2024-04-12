@@ -14,3 +14,8 @@ https://www.reddit.com/r/neovim/comments/g94zrl/solution_neovim_clipboard_with_w
                 \   'cache_enabled': 0,
                 \ }
 ```
+
+在keyoption.lua配置
+```lua
+opt.clipboard = "unnamedplus"
+```
