@@ -1,4 +1,5 @@
 https://www.reddit.com/r/neovim/comments/g94zrl/solution_neovim_clipboard_with_wsl/
+在init.lua里配置
 ```lua
   let g:clipboard = {
                 \   'name': 'WslClipboard',
