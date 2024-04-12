@@ -1,5 +1,5 @@
 https://www.reddit.com/r/neovim/comments/g94zrl/solution_neovim_clipboard_with_wsl/
-
+```lua
   let g:clipboard = {
                 \   'name': 'WslClipboard',
                 \   'copy': {
@@ -12,3 +12,4 @@ https://www.reddit.com/r/neovim/comments/g94zrl/solution_neovim_clipboard_with_w
                 \   },
                 \   'cache_enabled': 0,
                 \ }
+```
